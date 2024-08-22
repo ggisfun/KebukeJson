@@ -46,7 +46,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/麗春紅茶.jpg"
         }
       },
       {
@@ -69,7 +70,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/胭脂紅茶.jpg"
         }
       },
       {
@@ -92,7 +94,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金蜜紅茶.jpg"
         }
       },
       {
@@ -115,7 +118,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/春芽綠茶.jpg"
         }
       },
       {
@@ -138,7 +142,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": false
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/雪花冷露.jpg"
         }
       },
       {
@@ -161,7 +166,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/熟成冷露.jpg"
         }
       },
       {
@@ -184,7 +190,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/春芽冷露.jpg"
         }
       }
     ]
