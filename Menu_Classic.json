@@ -22,7 +22,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/熟成紅茶.jpg"
         }
       },
       {
