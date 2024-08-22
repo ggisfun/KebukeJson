@@ -1,0 +1,145 @@
+[
+  {
+    "category": "雲蓋 Sweet Cream Cold Foam",
+    "drinks": [
+      {
+        "name": "雲蓋熟成",
+        "info": {
+          "m": 60,
+          "l": 65,
+          "description": "經典熟成紅茶跳入玫瑰雲蓋般的甜綿",
+          "sugar_info": {
+            "m": {
+              "sugar": "46 g",
+              "calories": "358 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "384 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "雲蓋麗春",
+        "info": {
+          "m": 60,
+          "l": 65,
+          "description": "淡花香的麗春跳入玫瑰雲蓋般的甜綿",
+          "sugar_info": {
+            "m": {
+              "sugar": "46 g",
+              "calories": "358 kcal",
+              "caffeine": "≤ 100 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "384 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "雲蓋胭脂",
+        "info": {
+          "m": 65,
+          "l": 70,
+          "description": "恬淡蜜桃果香跳入玫瑰雲蓋般的甜綿",
+          "sugar_info": {
+            "m": {
+              "sugar": "46 g",
+              "calories": "358 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "384 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "雲蓋春芽",
+        "info": {
+          "m": 60,
+          "l": 65,
+          "description": "春滿四溢的青山跳入玫瑰雲蓋般的甜綿",
+          "sugar_info": {
+            "m": {
+              "sugar": "46 g",
+              "calories": "358 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "384 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "雲蓋歐蕾",
+        "info": {
+          "m": 65,
+          "l": 75,
+          "description": "茶底蘊與鮮奶的濃醇跳入玫瑰雲蓋般的甜綿",
+          "sugar_info": {
+            "m": {
+              "sugar": "41 g",
+              "calories": "385 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "50 g",
+              "calories": "443 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "雲蓋黑蜜",
+        "info": {
+          "m": 70,
+          "l": 80,
+          "description": "娓娓道出的餅香炒糖韻跳入玫瑰雲蓋般的甜綿",
+          "sugar_info": {
+            "m": {
+              "sugar": "38 g",
+              "calories": "376 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "46 g",
+              "calories": "432 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      }
+    ]
+  }
+]

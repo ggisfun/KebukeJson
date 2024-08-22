@@ -1,0 +1,237 @@
+[
+  {
+    "category": "調茶 Mix tea",
+    "drinks": [
+      {
+        "name": "熟成檸果",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "整顆鮮檸檬與經典紅茶清純爽口",
+          "sugar_info": {
+            "m": {
+              "sugar": "38 g",
+              "calories": "168 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "226 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "冷露檸果",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "整顆鮮檸檬佐古法熬製的冬瓜露",
+          "sugar_info": {
+            "m": {
+              "sugar": "41 g",
+              "calories": "190 kcal",
+              "caffeine": "無",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "57 g",
+              "calories": "261 kcal",
+              "caffeine": "無",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "胭脂多多",
+        "info": {
+          "m": 50,
+          "l": 60,
+          "description": "兒時記憶裡的多多碰上熟後的蜜桃風味",
+          "sugar_info": {
+            "m": {
+              "sugar": "84 g",
+              "calories": "355 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "105 g",
+              "calories": "453 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "金蜜檸果",
+        "info": {
+          "m": 50,
+          "l": 60,
+          "description": "清爽酸甜的蜂蜜與鮮切檸檬",
+          "sugar_info": {
+            "m": {
+              "sugar": "50 g",
+              "calories": "232 kcal",
+              "caffeine": "無",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "61 g",
+              "calories": "282 kcal",
+              "caffeine": "無",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "金檸熟成",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "經典熟成與整顆檸檬帶上清甜蜂蜜的尾韻",
+          "sugar_info": {
+            "m": {
+              "sugar": "37 g",
+              "calories": "180 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "55 g",
+              "calories": "256 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "金檸春芽",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "蜂蜜檸檬清新酸甜氣息而後帶上青翠茶韻",
+          "sugar_info": {
+            "m": {
+              "sugar": "50 g",
+              "calories": "232 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "61 g",
+              "calories": "282 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "桑檸熟成",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "桑椹莓果與經典熟成的邂逅",
+          "sugar_info": {
+            "m": {
+              "sugar": "47 g",
+              "calories": "200 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "61 g",
+              "calories": "260 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "柚果紅茶",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "清新文旦柚與莓果的甘甜滋味",
+          "sugar_info": {
+            "m": {
+              "sugar": "47 g",
+              "calories": "241 kcal",
+              "caffeine": "≤ 100 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "72 g",
+              "calories": "312 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "莓果春芽",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "莓果與綠茶的初戀般酸甜滋味",
+          "sugar_info": {
+            "m": {
+              "sugar": "35 g",
+              "calories": "157 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "48 g",
+              "calories": "214 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "橘果熟成",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "茂谷柑柳搭配經典熟成的酸甜氣息",
+          "sugar_info": {
+            "m": {
+              "sugar": "59.5 g",
+              "calories": "256.1 kcal",
+              "caffeine": "≤ 100 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "79.9 g",
+              "calories": "494.6 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": false
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "category": "單品茶 Classic",
+    "drinks": [
+      {
+        "name": "熟成紅茶",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "帶有濃穩果香的經典紅茶",
+          "sugar_info": {
+            "m": {
+              "sugar": "45 g",
+              "calories": "180 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "50 g",
+              "calories": "200 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "麗春紅茶",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "令人傾心淡雅的花香調紅茶",
+          "sugar_info": {
+            "m": {
+              "sugar": "45 g",
+              "calories": "180 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "50 g",
+              "calories": "200 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "胭脂紅茶",
+        "info": {
+          "m": 45,
+          "l": 50,
+          "description": "絲絨般果香調與一抹蜜桃風味",
+          "sugar_info": {
+            "m": {
+              "sugar": "45 g",
+              "calories": "180 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "50 g",
+              "calories": "200 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "金蜜紅茶",
+        "info": {
+          "m": 50,
+          "l": 60,
+          "description": "舌尖上的蜂蜜尾韻與經典熟成的香氣",
+          "sugar_info": {
+            "m": {
+              "sugar": "38 g",
+              "calories": "165 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "49 g",
+              "calories": "215 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "春芽綠茶",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "春滿四溢的青翠綠茶",
+          "sugar_info": {
+            "m": {
+              "sugar": "40 g",
+              "calories": "160 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "45 g",
+              "calories": "180 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "雪花冷露",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "古法熬煮而成清沁滑順冬瓜露",
+          "sugar_info": {
+            "m": {
+              "sugar": "40 g",
+              "calories": "169 kcal",
+              "caffeine": "無",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "55 g",
+              "calories": "233 kcal",
+              "caffeine": "無",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": false
+        }
+      },
+      {
+        "name": "熟成冷露",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "經典紅茶與古法熬煮冬瓜露",
+          "sugar_info": {
+            "m": {
+              "sugar": "33 g",
+              "calories": "135 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "211 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "春芽冷露",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "青翠綠茶與古法熬煮冬瓜露",
+          "sugar_info": {
+            "m": {
+              "sugar": "33 g",
+              "calories": "135 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "52 g",
+              "calories": "211 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "hot": true
+        }
+      }
+    ]
+  }
+]

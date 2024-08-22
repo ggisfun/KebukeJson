@@ -1,0 +1,122 @@
+[
+  {
+    "category": "歐蕾 Milk tea",
+    "drinks": [
+      {
+        "name": "熟成歐蕾",
+        "info": {
+          "m": 55,
+          "l": 65,
+          "description": "醇厚鮮奶交織經典紅茶的奶茶",
+          "sugar_info": {
+            "m": {
+              "sugar": "47 g",
+              "calories": "258 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "55 g",
+              "calories": "311 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "冷露歐蕾",
+        "info": {
+          "m": 55,
+          "l": 65,
+          "description": "古法熬煮的冬瓜露遇上醇厚鮮奶",
+          "sugar_info": {
+            "m": {
+              "sugar": "35 g",
+              "calories": "215 kcal",
+              "caffeine": "無",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "48 g",
+              "calories": "293 kcal",
+              "caffeine": "無",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "白玉歐蕾",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "醇厚鮮奶茶咀嚼著Q彈白透珍珠",
+          "sugar_info": {
+            "m": {
+              "sugar": "42 g",
+              "calories": "439 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "50 g",
+              "calories": "492 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "金蜜歐蕾",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "奶與茶香味四溢而蜂蜜藏在喉間裡",
+          "sugar_info": {
+            "m": {
+              "sugar": "36 g",
+              "calories": "224 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "56 g",
+              "calories": "333 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": true
+        }
+      },
+      {
+        "name": "黑蜜歐蕾",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "茶與奶香背後藏匿的是恰如其分的餅香炒糖韻",
+          "sugar_info": {
+            "m": {
+              "sugar": "33 g",
+              "calories": "205 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "奶素者可食用"
+            },
+            "l": {
+              "sugar": "34 g",
+              "calories": "273 kcal",
+              "caffeine": "≥ 201 mg",
+              "vegetarian": "奶素者可食用"
+            }
+          },
+          "hot": true
+        }
+      }
+    ]
+  }
+]

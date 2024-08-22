@@ -1,0 +1,31 @@
+[
+  {
+    "category": "季節限定",
+    "drinks": [
+      {
+        "name": "金蘋春芽",
+        "info": {
+          "m": 60,
+          "l": 70,
+          "description": "蘋果汁與蜂蜜綠茶的清爽特調",
+          "sugar_info": {
+            "m": {
+              "sugar": "42 g",
+              "calories": "189 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "67 g",
+              "calories": "307 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "notes": "含蜂蜜，1歲以下不建議飲用!另對咖啡因敏感者亦請斟酌",
+          "hot": false
+        }
+      }
+    ]
+  }
+]
