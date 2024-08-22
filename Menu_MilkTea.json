@@ -22,7 +22,8 @@
               "vegetarian": "奶素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/熟成歐蕾.jpg"
         }
       },
       {
@@ -45,7 +46,8 @@
               "vegetarian": "奶素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/冷露歐蕾.jpg"
         }
       },
       {
@@ -68,7 +70,8 @@
               "vegetarian": "奶素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/白玉歐蕾.jpg"
         }
       },
       {
@@ -91,7 +94,8 @@
               "vegetarian": "奶素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金蜜歐蕾.jpg"
         }
       },
       {
@@ -114,7 +118,8 @@
               "vegetarian": "奶素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/黑蜜歐蕾.jpg"
         }
       }
     ]
