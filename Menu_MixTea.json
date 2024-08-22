@@ -22,7 +22,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": false
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/熟成檸果.jpg"
         }
       },
       {
@@ -45,7 +46,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": false
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/冷露檸果.jpg"
         }
       },
       {
@@ -68,7 +70,8 @@
               "vegetarian": "奶素者可食用"
             }
           },
-          "hot": false
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/胭脂多多.jpg"
         }
       },
       {
@@ -91,7 +94,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": false
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金蜜檸果.jpg"
         }
       },
       {
@@ -114,7 +118,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金檸熟成.jpg"
         }
       },
       {
@@ -137,7 +142,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金檸春芽.jpg"
         }
       },
       {
@@ -160,7 +166,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/桑檸熟成.jpg"
         }
       },
       {
@@ -183,7 +190,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/柚果紅茶.jpg"
         }
       },
       {
@@ -206,7 +214,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true
+          "hot": true,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/莓果春芽.jpg"
         }
       },
       {
@@ -229,7 +238,8 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": false
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/橘果熟成.jpg"
         }
       }
     ]
