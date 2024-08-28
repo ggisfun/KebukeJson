@@ -3,6 +3,56 @@
     "category": "季節限定",
     "drinks": [
       {
+        "name": "烏米紅茶",
+        "info": {
+          "m": 35,
+          "l": 40,
+          "description": "紅茶邂逅溫火慢焙帶有米香的烏龍",
+          "sugar_info": {
+            "m": {
+              "sugar": "49 g",
+              "calories": "195 kcal",
+              "caffeine": "≦100 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "55 g",
+              "calories": "221 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "notes": "對咖啡因敏感者請斟酌",
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/烏米紅茶.jpg"
+        }
+      },
+      {
+        "name": "荔香烏米",
+        "info": {
+          "m": 55,
+          "l": 65,
+          "description": "紅茶結合荔枝香與葡萄柚的細膩特調",
+          "sugar_info": {
+            "m": {
+              "sugar": "52 g",
+              "calories": "235 kcal",
+              "caffeine": "≦100 mg",
+              "vegetarian": "全素者可食用"
+            },
+            "l": {
+              "sugar": "66 g",
+              "calories": "304 kcal",
+              "caffeine": "101-200 mg",
+              "vegetarian": "全素者可食用"
+            }
+          },
+          "notes": "含蜂蜜，1歲以下不建議飲用!另對咖啡因敏感者亦請斟酌",
+          "hot": false,
+          "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/荔香烏米.jpg"
+        }
+      },
+      {
         "name": "金蘋春芽",
         "info": {
           "m": 60,
