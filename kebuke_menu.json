@@ -395,7 +395,7 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true,
+          "hot": false,
           "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金檸熟成.jpg"
         }
       },
@@ -419,7 +419,7 @@
               "vegetarian": "全素者可食用"
             }
           },
-          "hot": true,
+          "hot": false,
           "imgUrl": "https://raw.githubusercontent.com/ggisfun/Kebuke/main/金檸春芽.jpg"
         }
       },
